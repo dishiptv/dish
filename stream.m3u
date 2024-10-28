@@ -236,7 +236,7 @@ https://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="BBC News North America"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36844_dark_360w_270h.png"group-title="Entertainment",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="BBCWorldNewsNorthAmerica.uk"tvg-logo="https://i.imgur.com/REuN9RR.png"group-title="Entertainment",BBC World News
+#EXTINF:-1 tvg-name=""tvg-id="BBCWorldNewsNorthAmerica.uk"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36844_dark_360w_270h.png"group-title="Entertainment",BBC World News
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="HallmarkChannelEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png"group-title="Entertainment",Hallmark Channel
@@ -569,19 +569,19 @@ http://67.220.74.90:25461/18736836/73683618/5047
 #EXTINF:-1 tvg-name=""tvg-id="ShadesBlk"tvg-logo="https://i.imgur.com/wIf4X0i.png"group-title="Entertainment",Shades of Black
 https://dbrb49pjoymg4.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106
 
-#EXTINF:-1 tvg-name=""tvg-id="NFLST1"tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg"group-title="Entertainment",Sunday Ticket 1
+#EXTINF:-1 tvg-name=""tvg-id="NFLST1"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 1
 https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/865666/5743360/media.m3u8?request_token=Z1-ZrI8l37vCBmH6YKlQZNFcvAXYiLJN8c0K9gQTvqeAS2QJAdKCNfJi781AV_GZ0FiNd9AuyH162KN25KKJ1iwvz5KrioIJ6D1yPHrvpZ68JmiHTY6U93wIgD_NiMxFXxR_tw_MCi_hka74r9ng6aLxngs2p8TTSlCW71SMmjHsk4wN7kcHLDtoRtcivA&CMCD=mtp%3D111600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22ac2d9503-527a-4258-a660-a8841776bd7c%22
 
-#EXTINF:-1 tvg-name=""tvg-id="NFLST2"tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg"group-title="Entertainment",Sunday Ticket 2
+#EXTINF:-1 tvg-name=""tvg-id="NFLST2"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 2
 http://fl3.moveonjoy.com/NFL_1/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="NFLST3"tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg"group-title="Entertainment",Sunday Ticket 3
+#EXTINF:-1 tvg-name=""tvg-id="NFLST3"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 3
 http://fl4.moveonjoy.com/NFL_1/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="NFLST4"tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg"group-title="Entertainment",Sunday Ticket 4
+#EXTINF:-1 tvg-name=""tvg-id="NFLST4"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 4
 http://saypopular.com:25461/live/18736836/73683618/272578.ts
 
-#EXTINF:-1 tvg-name=""tvg-id="NFLST5"tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg"group-title="Entertainment",Sunday Ticket 5
+#EXTINF:-1 tvg-name=""tvg-id="NFLST5"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 5
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="StingrayHits.ca"tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png"group-title="Entertainment",Stingray Greatest Hits
