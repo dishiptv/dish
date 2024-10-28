@@ -119,7 +119,7 @@ http://bisdaktv.store/live/Discovery_Turbo.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Discovery Life Channel.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Discovery_Life_logo_2016.svg/640px-Discovery_Life_logo_2016.svg.png"group-title="Entertainment",Discovery Life
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="DiscoveryFamily.us"tvg-logo="https://banner2.cleanpng.com/20180802/teo/kisspng-logo-product-design-brand-discovery-channel-green-watch-tv-everywhere-5b638a42cc6647.8986147115332501148372.jpg"group-title=Entertainment"",Discovery Family
+#EXTINF:-1 tvg-name=""tvg-id="DiscoveryFamily.us"tvg-logo="https://banner2.cleanpng.com/20180802/teo/kisspng-logo-product-design-brand-discovery-channel-green-watch-tv-everywhere-5b638a42cc6647.8986147115332501148372.jpg"group-title="Entertainment",Discovery Family
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="DiscoveryMax"tvg-logo="https://eu1-prod-images.disco-api.com/2023/08/08/b2118319-0565-34ee-bccf-6228b1ec0426.png?bf=0&f=jpg&p=true&q=70&w=1920"group-title="Entertainment",DMAX
@@ -209,7 +209,7 @@ http://67.220.74.90:25461/18736836/73683618/5479
 #EXTINF:-1 tvg-name="Cartoonito.uk"tvg-id=""tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s31760_dark_360w_270h.png"group-title="Entertainment",Cartoonito
 https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="CartoonNetworkCanada.ca"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png"group-title="Entertainment",The Cartoon Network Channel
+#EXTINF:-1 tvg-name=""tvg-id="CartoonNetworkCanada.ca"tvg-logo=http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png"group-title="Entertainment",The Cartoon Network Channel
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="CartoonNetworkEast.us"tvg-logo=http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png"group-title="Entertainment",Cartoon Network
@@ -224,46 +224,46 @@ http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Entertainment",BBC Earth
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555&serverSideAds=false&checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-name=""tvg-id="BBCAmericaEast.us"tvg-logo="https://i.imgur.com/pTiiPz0.png"group-title="Entertainment",BBC America
+#EXTINF:-1 tvg-name=""tvg-id="BBCAmericaEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png"group-title="Entertainment",BBC America
 https://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="BBC News North America"tvg-logo="https://i.imgur.com/REuN9RR.png"group-title="Entertainment",BBC News
+#EXTINF:-1 tvg-name=""tvg-id="BBC News North America"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s36844_dark_360w_270h.png"group-title="Entertainment",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="BBCWorldNewsNorthAmerica.uk"tvg-logo="https://i.imgur.com/REuN9RR.png"group-title="Entertainment",BBC World News
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="HallmarkChannelEast.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png"group-title="Entertainment",Hallmark Channel
+#EXTINF:-1 tvg-name=""tvg-id="HallmarkChannelEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png"group-title="Entertainment",Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="HallmarkDrama.us"tvg-logo="https://pbs.twimg.com/media/GFrr3ypbEAAshQo.jpg:large"group-title="Entertainment",Hallmark Family
+#EXTINF:-1 tvg-name=""tvg-id="HallmarkDrama.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png"group-title="Entertainment",Hallmark Family
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="HallmarkMoviesMysteriesEast.us"tvg-logo="https://pbs.twimg.com/media/GFrrOQHbMAAFllu?format=jpg&name=large"group-title="Entertainment",Hallmark Mystery
+#EXTINF:-1 tvg-name=""tvg-id="HallmarkMoviesMysteriesEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png"group-title="Entertainment",Hallmark Mystery
 https://v11.thetvapp.to/hls/HallmarkMoviesMysteriesEast/index.m3u8?token=TEpQQlphb21hS0tnTFdjYTJWNndJSnpEOXE2enVRYVl2ZkMydWZYQw==
 
 #EXTINF:-1 tvg-name=""tvg-id="HallmarkMM"tvg-logo="https://pbs.twimg.com/media/GFrr3ypbEAAshQo.jpg:large"group-title="Entertainment",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 
-#EXTINF:-1 tvg-name=""tvg-id="CMTEast.us"tvg-logo="https://pbs.twimg.com/profile_images/1410682052605788173/Uzb5xoQA_400x400.jpg"group-title="Entertainment",CMT
+#EXTINF:-1 tvg-name=""tvg-id="CMTEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png"group-title="Entertainment",CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="FuseEast.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png"group-title="Entertainment",FUSE
+#EXTINF:-1 tvg-name=""tvg-id="FuseEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png"group-title="Entertainment",FUSE
 http://fl2.moveonjoy.com/FUSE/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="MTV"tvg-logo="https://yt3.googleusercontent.com/8dmkFX1UcqiTQSTi2pbgNEHi-MPij0Ad6C0ENRbqm3wiZpBo8RYzXiQqyZNViC17JJEiEdTDH8o=s900-c-k-c0x00ffffff-no-rj"group-title="Entertainment",MTV
+#EXTINF:-1 tvg-name=""tvg-id="MTV"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png"group-title="Entertainment",MTV
 https://fl2.moveonjoy.com/MTV/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="MTV2"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/512px-MTV2_logo_2013.svg.png"group-title="Entertainment",MTV2
+#EXTINF:-1 tvg-name=""tvg-id="MTV2"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16361_dark_360w_270h.png"group-title="Entertainment",MTV2
 https://fl5.moveonjoy.com/MTV_2/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="MTVClassicEast"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/512px-MTV_Classic_US.svg.png"group-title="Entertainment",MTV Classic
+#EXTINF:-1 tvg-name=""tvg-id="MTVClassicEast"tvg-logo=http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s22561_dark_360w_270h.png"group-title="Entertainment",MTV Classic
 https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="MTVLive"tvg-logo="https://i.imgur.com/3UByLqb.png"group-title="Entertainment",MTV Live
+#EXTINF:-1 tvg-name=""tvg-id="MTVLive"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49141_dark_360w_270h.png"group-title="Entertainment",MTV Live
 https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="MTVU"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016%E2%80%93present%29.svg/512px-MTVU_Logo_%282016%E2%80%93present%29.svg.png"group-title="Entertainment",mtvU
+#EXTINF:-1 tvg-name=""tvg-id="MTVU"tvg-logo=""http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s44228_dark_360w_270h.png"group-title="Entertainment",mtvU
 https://fl5.moveonjoy.com/MTV_U/index.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="BETGospel"tvg-logo="https://i.imgur.com/jbOkq8C.png"group-title="Entertainment",BET Gospel
@@ -341,31 +341,31 @@ http://67.220.74.90:25461/18736836/73683618/1707
 #EXTINF:-1 tvg-name=""tvg-id="FoxBusinessNetwork"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png"group-title="Entertainment",FOX Business
 http://67.220.74.90:25461/18736836/73683618/1708
 
-#EXTINF:-1 tvg-name=""tvg-id="FoxNewsChannel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"group-title="News",Fox News Channel
+#EXTINF:-1 tvg-name=""tvg-id="FoxNewsChannel"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"group-title=Entertainment",Fox News Channel
 http://67.220.74.90:25461/18736836/73683618/1709
 
-#EXTINF:-1 tvg-name=""tvg-id="MSNBC"tvg-logo="https://i.imgur.com/kGUR6NE.png"group-title="News",MSNBC
+#EXTINF:-1 tvg-name=""tvg-id="CNBC.us"tvg-logo="https://yt3.googleusercontent.com/WhC1oycyrx_oXiMM1EeRZm6sWBA1ciHeyeuIkQuDuK2aeQBbLIkfshKIHJuUjD7d1w-gq4AqlyU=s900-c-k-c0x00ffffff-no-rj"group-title="Entertainment",CNBC
 http://67.220.74.90:25461/18736836/73683618/1703
 
-#EXTINF:-1 tvg-name=""tvg-id="CNBC.tv"tvg-logo="https://i.imgur.com/kGUR6NE.png"group-title="News",CNBC
+#EXTINF:-1 tvg-name=""tvg-id="MSNBC.us"tvg-logo="https://i.imgur.com/kGUR6NE.png"group-title="Entertainment",MSNBC
 http://67.220.74.90:25461/18736836/73683618/1710
 
-#EXTINF:-1 tvg-name=""tvg-id="3ABNCan"tvg-logo=""group-title="Religious",3ABN Canada
+#EXTINF:-1 tvg-name=""tvg-id="3ABNCan"tvg-logo=""group-title="Entertainment",3ABN Canada
 https://3abn.bozztv.com/3abncanada/3ABN/master.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="DareToDreamNetwork"tvg-logo="https://i.imgur.com/JwCLwQ2.png"group-title="Religious",3ABN
+#EXTINF:-1 tvg-name=""tvg-id="DareToDreamNetwork"tvg-logo="https://i.imgur.com/JwCLwQ2.png"group-title="Entertainment",3ABN
 https://3abn.bozztv.com/3abn2/d2d_live/smil:d2d_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="3ABNEnglish.us"tvg-logo="https://i.imgur.com/bgJQIyW.png"group-title="Religious",3ABN2
+#EXTINF:-1 tvg-name=""tvg-id="3ABNEnglish.us"tvg-logo="https://i.imgur.com/bgJQIyW.png"group-title="Entertainment",3ABN2
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="3ABNKids.us"tvg-logo="https://i.imgur.com/SUPQAok.png"group-title="Entertainment",3ABN Kids
 https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="PraiseHimMusicNetwork"tvg-logo="https://i.imgur.com/iBcqT8L.png"group-title="Music;Religious",Praise Him Music Network
+#EXTINF:-1 tvg-name=""tvg-id="PraiseHimMusicNetwork"tvg-logo="https://i.imgur.com/iBcqT8L.png"group-title="Entertainment",Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="ProclaimNetwork.us"tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mb4TLclxAUPvlnV84blg4YSnZYjspMitP_sS2rX_5IYQ=s512-c-k-c0x00ffffff-no-rj"group-title="Religious",Proclaim! Network
+#EXTINF:-1 tvg-name=""tvg-id="ProclaimNetwork.us"tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mb4TLclxAUPvlnV84blg4YSnZYjspMitP_sS2rX_5IYQ=s512-c-k-c0x00ffffff-no-rj"group-title="Entertainment",Proclaim! Network
 https://3abn.bozztv.com/3abn2/Pro_live/smil:Pro_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="ChristianYouthChannel.us"tvg-logo="https://i.imgur.com/61eV77C.png"group-title="Entertainment",Christian Youth Channel (CYC)
@@ -377,7 +377,7 @@ https://cdn3.wowza.com/5/Wi9jakJPdFhPREFj/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="GospelTruthTV.us"tvg-logo="https://i.imgur.com/LI52X2q.png"group-title="Entertainment",Gospel Truth TV
 https://na.linear.zype.com/bf94f9f4-383c-40e0-9d49-279a4f33ab8d/f29b8836-d990-4c8d-b421-192a8f43edc4-zype/manifest.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="B10Network"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png"group-title="Sports",Big Ten Network
+#EXTINF:-1 tvg-name=""tvg-id="B10Network"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png"group-title="Entertainment",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="ESPN.us"tvg-logo="https://cnbl-cdn.bamgrid.com/assets/cbc11829f838ae44fe3587937d2df820ffc979f39b04af49ae34ae5413c9a710/original"group-title="Entertainment",ESPN
@@ -453,7 +453,7 @@ http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
 http://212.102.60.231/NFL_RedZone/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="Shudder"tvg-logo="https://helios-i.mashable.com/imagery/articles/06wW7xcPUO9q736MBfJUdrm/hero-image.fill.size_1248x702.v1623390743.jpg"group-title="Entertainment",Shudder
-http://67.220.74.90:25461/18736836/73683618/5050
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-650b38f490baad1963ad96f9/variant.m3u8?url=c221b04cd466f6178c3f3d91f6456a82-9de939e256adb619f3d50495fe7e5261e1f566f0b984d1a0350be81872f6e6fcbf02c73f30b31d4590854720555064d84fb291c1ade17f5ceb979a1cf5df1c032d9d5f891cf8d2930f48a8e9e1aaba9f90b2f181fadf22669a97633feec277012ad7e83b0bc3a6a88cf00d3a88bf7767859cf45076e2c728a340c3fabf0f48ecb2c96038e5792f4f401717b5dfb9a636cccbff09865f26b3dd35b6df127bbae2d19fe82e1658a83e49b84db2f8ff9060039aec9f13d9c5015e10b1db179d5b7ef5c3df4a4c6bbd11a4c87aba04c863c1&x-plex-token=xsQnD8vsaE_u5M7LtAA7&x-plex-advertising-identifier=&x-plex-advertising-donottrack=1&x-plex-drm=&x-plex-device-screen-resolution=1920x503%2C1920x1080&x-plex-device-vendor=&x-plex-version=4.140.1&x-plex-session-id=bcf242fa-8b90-42af-8f0b-ede75b2f5412&x-plex-playback-session-id=0cf600a3-644a-40c7-876f-e3f2c0efc81c&x-plex-playback-id=&x-plex-provider-streaming-start=1730081766
 
 #EXTINF:-1 tvg-name=""tvg-id="Cine"tvg-logo="https://prod-images.tcm.com/img/global/logo-TCM-share-1200x630.jpg"group-title="Entertainment",Cinelife
 https://magnolia-xumo-us.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-xumo/CDN/master.m3u8
@@ -500,97 +500,97 @@ http://67.220.74.90:25461/18736836/73683618/5054
 #EXTINF:-1 tvg-name=""tvg-id="ShowtimeExtreme"tvg-logo="https://i.imgur.com/byJNJdm.png"group-title="Entertainment",Showtime Extreme
 http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="ShowtimeNext"tvg-logo="https://i.imgur.com/1Ak2MX2.png"group-title="movies",Showtime Next
+#EXTINF:-1 tvg-name=""tvg-id="ShowtimeNext"tvg-logo="https://i.imgur.com/1Ak2MX2.png"group-title="Entertainment",Showtime Next
 http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="ShowtimeWomeneast"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png"group-title="movies",ShoWomen East
+#EXTINF:-1 tvg-name=""tvg-id="ShowtimeWomeneast"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png"group-title="Entertainment",ShoWomen East
 http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="Showtimewomenwest"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png"group-title="movies",ShoWomen West
+#EXTINF:-1 tvg-name=""tvg-id="Showtimewomenwest"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png"group-title="Entertainment",ShoWomen West
 http://67.220.74.90:25461/18736836/73683618/9172
 
-#EXTINF:-1 tvg-name=""tvg-id="ShoFamilyZone"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1280px-Showtime_Family_Zone.svg.png"group-title="movies",Showtime Family Zone
+#EXTINF:-1 tvg-name=""tvg-id="ShoFamilyZone"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/1280px-Showtime_Family_Zone.svg.png"group-title="Entertainment",Showtime Family Zone
 http://67.220.74.90:25461/18736836/73683618/5051
 
-#EXTINF:-1 tvg-name="Starz"tvg-id="8484"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/1024px-Starz_2022.svg.png"group-title="movies",STARZ
+#EXTINF:-1 tvg-name="Starz"tvg-id="8484"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/1024px-Starz_2022.svg.png"group-title="Entertainment",STARZ
 http://fl2.moveonjoy.com/STARZ/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="StarzEdgeEast"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/1024px-Starz_Edge_Logo_2022.svg.png"group-title="movies",STARZ EDGE
+#EXTINF:-1 tvg-name=""tvg-id="StarzEdgeEast"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Starz_Edge_Logo_2022.svg/1024px-Starz_Edge_Logo_2022.svg.png"group-title="Entertainment",STARZ EDGE
 http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="StarzBlack"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/1024px-Starz_in_Black_Logo_2022.svg.png"group-title="movies",STARZ In Black
+#EXTINF:-1 tvg-name=""tvg-id="StarzBlack"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/1024px-Starz_in_Black_Logo_2022.svg.png"group-title="Entertainment",STARZ In Black
 http://67.220.74.90:25461/18736836/73683618/5040
 
-#EXTINF:-1 tvg-name=""tvg-id="StarzComedyEast"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/1024px-Starz_Comedy_Logo_2022.svg.png"group-title="movies",STARZ COMEDY
+#EXTINF:-1 tvg-name=""tvg-id="StarzComedyEast"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Starz_Comedy_Logo_2022.svg/1024px-Starz_Comedy_Logo_2022.svg.png"group-title="Entertainment",STARZ COMEDY
 http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="StarzCine"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/1024px-Starz_Cinema_Logo_2022.svg.png"group-title="movies",STARZ Cinema
+#EXTINF:-1 tvg-name=""tvg-id="StarzCine"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/1024px-Starz_Cinema_Logo_2022.svg.png"group-title="Entertainment",STARZ Cinema
 http://67.220.74.90:25461/18736836/73683618/5043
 
-#EXTINF:-1 tvg-name=""tvg-id="StarzCine"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/1024px-Starz_Cinema_Logo_2022.svg.png"group-title="movies",STARZ Kids & Family
+#EXTINF:-1 tvg-name=""tvg-id="StarzCine"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/1024px-Starz_Cinema_Logo_2022.svg.png"group-title="Entertainment",STARZ Kids & Family
 http://67.220.74.90:25461/18736836/73683618/5039
 
-#EXTINF:-1 tvg-name=""tvg-id="StarzEncoreEast"tvg-logo="https://i.imgur.com/5ieoKO1.png"group-title="movies",STARZ Encore
+#EXTINF:-1 tvg-name=""tvg-id="StarzEncoreEast"tvg-logo="https://i.imgur.com/5ieoKO1.png"group-title="Entertainment",STARZ Encore
 http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="StarzEncoreActionEast"tvg-logo="https://i.imgur.com/wIf4X0i.png"group-title="movies",STARZ Encore Action
+#EXTINF:-1 tvg-name=""tvg-id="StarzEncoreActionEast"tvg-logo="https://i.imgur.com/wIf4X0i.png"group-title="Entertainment",STARZ Encore Action
 http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="StarzEnClassic"tvg-logo="https://i.imgur.com/5ieoKO1.png"group-title="movies",STARZ Encore Classic
+#EXTINF:-1 tvg-name=""tvg-id="StarzEnClassic"tvg-logo="https://i.imgur.com/5ieoKO1.png"group-title="Entertainment",STARZ Encore Classic
 http://67.220.74.90:25461/18736836/73683618/9486
 
-#EXTINF:-1 tvg-name=""tvg-id="StarzEnFam"tvg-logo="https://i.imgur.com/5ieoKO1.png"group-title="movies",STARZ Encore Family
+#EXTINF:-1 tvg-name=""tvg-id="StarzEnFam"tvg-logo="https://i.imgur.com/5ieoKO1.png"group-title="Entertainment",STARZ Encore Family
 http://67.220.74.90:25461/18736836/73683618/9171
 
-#EXTINF:-1 tvg-name=""tvg-id="StarzEncoreSus"tvg-logo="https://i.imgur.com/5ieoKO1.png"group-title="movies",STARZ Encore Suspense
+#EXTINF:-1 tvg-name=""tvg-id="StarzEncoreSus"tvg-logo="https://i.imgur.com/5ieoKO1.png"group-title="Entertainment",STARZ Encore Suspense
 http://67.220.74.90:25461/18736836/73683618/5035
 
-#EXTINF:-1 tvg-name="StarzEn Western"tvg-id="9031"tvg-logo="https://epg.pw/media/images/channel/2023/02/14/large/20230214172751661171_74.png"group-title="movies",STARZ Encore Westerns
+#EXTINF:-1 tvg-name="StarzEn Western"tvg-id="9031"tvg-logo="https://epg.pw/media/images/channel/2023/02/14/large/20230214172751661171_74.png"group-title="Entertainment",STARZ Encore Westerns
 http://fl2.moveonjoy.com/STARZ_ENCORE_WESTERNS/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="CinemaxEast.us"tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg"group-title="movies",CINEMAX East
+#EXTINF:-1 tvg-name=""tvg-id="CinemaxEast.us"tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg"group-title="Entertainment",CINEMAX East
 http://fl2.moveonjoy.com/CINEMAX_EAST/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="CinemaxWest.us"tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg"group-title="movies",CINEMAX West
+#EXTINF:-1 tvg-name=""tvg-id="CinemaxWest.us"tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg"group-title="Entertainment",CINEMAX West
 http://67.220.74.90:25461/18736836/73683618/5030
 
-#EXTINF:-1 tvg-name=""tvg-id="MoreMax"tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg"group-title="movies",MoreMax
+#EXTINF:-1 tvg-name=""tvg-id="MoreMax"tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg"group-title="Entertainment",MoreMax
 http://67.220.74.90:25461/18736836/73683618/9488
 
-#EXTINF:-1 tvg-name=""tvg-id="ActionMaxEast.us"tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg"group-title="movies",ActionMax
+#EXTINF:-1 tvg-name=""tvg-id="ActionMaxEast.us"tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg"group-title="Entertainment",ActionMax
 http://67.220.74.90:25461/18736836/73683618/5032
 
-#EXTINF:-1 tvg-name=""tvg-id="5StarMax"tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg"group-title="movies",5StarMax
+#EXTINF:-1 tvg-name=""tvg-id="5StarMax"tvg-logo="https://logowik.com/content/uploads/images/cinemax7120.jpg"group-title="Entertainment",5StarMax
 http://67.220.74.90:25461/18736836/73683618/5038
 
-#EXTINF:-1 tvg-name="Sundance channel"tvg-id=""tvg-logo="https://epg.pw/media/images/channel/2017/03/05/large/20170305232411501741_49.png"group-title="movies",Sundance
+#EXTINF:-1 tvg-name="Sundance channel"tvg-id=""tvg-logo="https://epg.pw/media/images/channel/2017/03/05/large/20170305232411501741_49.png"group-title="Entertainment",Sundance
 http://fl2.moveonjoy.com/SUNDANCE/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="HBOe"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="movies",HBO East
+#EXTINF:-1 tvg-name=""tvg-id="HBOe"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="Entertainment",HBO East
 https://fl2.moveonjoy.com/HBO/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="HBOw"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="movies",HBO West
+#EXTINF:-1 tvg-name=""tvg-id="HBOw"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="Entertainment",HBO West
 http://67.220.74.90:25461/18736836/73683618/5048
 
-#EXTINF:-1 tvg-name=""tvg-id="HBO2"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="movies",HBO2
+#EXTINF:-1 tvg-name=""tvg-id="HBO2"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="Entertainment",HBO2
 http://fl2.moveonjoy.com/HBO_2/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="HBO Comedy"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="movies",HBO Comedy
+#EXTINF:-1 tvg-name=""tvg-id="HBO Comedy"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="Entertainment",HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="HBOFamily"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="movies",HBOFamily
+#EXTINF:-1 tvg-name=""tvg-id="HBOFamily"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="Entertainment",HBOFamily
 http://fl2.moveonjoy.com/HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="HBOZone"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="movies",HBO Zone
+#EXTINF:-1 tvg-name=""tvg-id="HBOZone"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="Entertainment",HBO Zone
 http://fl2.moveonjoy.com/HBO_ZONE/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="HBOPOP"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="movies",HBO POP
+#EXTINF:-1 tvg-name=""tvg-id="HBOPOP"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="Entertainment",HBO POP
 http://67.220.74.90:25461/18736836/73683618/2096
 
-#EXTINF:-1 tvg-name=""tvg-id="HBOSignature"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="movies",HBO Signature
+#EXTINF:-1 tvg-name=""tvg-id="HBOSignature"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="Entertainment",HBO Signature
 http://67.220.74.90:25461/18736836/73683618/5047
 
-#EXTINF:-1 tvg-name=""tvg-id="ShadesBlk"tvg-logo="https://i.imgur.com/wIf4X0i.png"group-title="movies",Shades of Black
+#EXTINF:-1 tvg-name=""tvg-id="ShadesBlk"tvg-logo="https://i.imgur.com/wIf4X0i.png"group-title="Entertainment",Shades of Black
 https://dbrb49pjoymg4.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106
 
 #EXTINF:-1 tvg-name=""tvg-id="NFLST1"tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg"group-title="Entertainment",Sunday Ticket 1
