@@ -59,10 +59,10 @@ https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/7345
 #EXTINF:-1 tvg-name="LIFETIME"tvg-id="LifetimeEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Entertainment",Lifetime
 https://fl2.moveonjoy.com/LIFETIME/index.m3u8
 
-#EXTINF:-1 tvg-name="LMN"tvg-id="Lifetime Movie Network.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png"group-title="Entertainment",LMN
+#EXTINF:-1 tvg-name="LMN"tvg-id="LMN.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18480_dark_360w_270h.png"group-title="Entertainment",LMN
 http://fl2.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8
 
-#EXTINF:-1 tvg-name="THE WEATHER CHANNEL"tvg-id="WeatherChannel.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11187_dark_360w_270h.png"group-title="Entertainment",The Weather Channel
+#EXTINF:-1 tvg-name="THE WEATHER CHANNEL"tvg-id="TheWeatherChannel.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11187_dark_360w_270h.png"group-title="Entertainment",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8
 
 #EXTINF:-1 tvg-name="AMC"tvg-id="AMCEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png"group-title="Entertainment",AMC
