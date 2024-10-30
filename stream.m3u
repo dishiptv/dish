@@ -14,8 +14,8 @@ http://saypopular.com:25461/live/18736836/73683618/272361.ts
 #EXTINF:-1 tvg-name="Spark"tvg-id="ABCSpark.ca"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIIr3VJcL93eUVQ3brVqbQ7xyT-FRwN4ZBng&s"group-title="Entertainment",ABC SPARK
 http://ae325328.ucomist.net/iptv/Z3SWF9EL3YPX5N/6466/index.m3u8
 
-#EXTINF:-1 tvg-name="NBCLX HOME"tvg-id="NBCLX.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg"group-title="Entertainment",NBCLX HOME
-https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
+#EXTINF:-1 tvg-name="NBC6Miami"tvg-id="NBCEast.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/WTVJ_%282012_-_Flat%29.svg/1200px-WTVJ_%282012_-_Flat%29.svg.png"group-title="Entertainment",WTVJ NBC
+https://tx1.nexgen.bz:443/NBC/index.m3u8
 
 #EXTINF:-1 tvg-name="PBS"tvg-id="PBSEast.us"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh8RHJse08lXM6v1d1K5IN5u-Udz2aXuOG_A&s"group-title="Entertainment",KMOS-TV PBS
 https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
@@ -127,12 +127,6 @@ http://fl2.moveonjoy.com/HGTV/index.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="Investigation Discovery.us"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS4gtpkOTuKuORMYqfWow4JcFc7Eyk_k3XcUCNkX8WrzdaZBCzDFRy5Mc95glVjEMqSdc&usqp=CAU"group-title="Entertainment",Investigation Discovery
 http://fl2.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="TLCEast.us"tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg"group-title="Entertainment",TLC
-http://bisdaktv.store/live/TLC.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="TravelChannelEast.us"tvg-logo="https://www.mediaplaynews.com/wp-content/uploads/2018/06/Discovery.jpg"group-title="Entertainment",Travel Channel
-http://bisdaktv.store/live/TRVL_Channel.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="AnimalPlanetEast.us"tvg-logo="https://standfirst-designweek-production.imgix.net/uploads/2018/10/25115647/AnimalPlanet_Vertical_OneLineLarge_RGB-002.jpg?fit=crop&crop=faces&q=80&auto=compress,format&w=647&h=500"group-title="Entertainment",Discovery Animal Planet
 https://fl2.moveonjoy.com/Animal_Planet/index.m3u8
@@ -272,18 +266,6 @@ http://fl3.moveonjoy.com/Logo/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="AccuWeatherNow.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91994_dark_360w_270h.png"group-title="Entertainment",AccuWeather
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="ScreamBoxTV"tvg-logo="https://i.imgur.com/cKEwuQc.png"group-title="Entertainment",ScreamBox TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="BluesTV"tvg-logo="https://i.imgur.com/GlpYAKt.png"group-title="Entertainment",Blues TV
-https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="CrimeFLX"tvg-logo="https://yt3.googleusercontent.com/2Xyny8o6E01arZ-8fh0jeYnT1xxePLRJVC8-6odRcmpRAdlZo4S1NfzLO4zxXhP7jxO7bUhD=s160-c-k-c0x00ffffff-no-rj"group-title="Entertainment",CrimeFlix
-https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="CCNT"tvg-logo=""group-title="Entertainment",Cult Classic Movie Theater
-https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
-
 #EXTINF:-1 tvg-name=""tvg-id="DoveChannel"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s110480_dark_360w_270h.png"group-title="Entertainment",Dove Channel
 https://amg01201-cinedigmenterta-dove-cineverse-1fck5.amagi.tv/playlist/amg01201-cinedigmenterta-dove-cineverse/playlist.m3u8
 
@@ -305,11 +287,23 @@ https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="TBNAfrica.za"tvg-logo="https://i.imgur.com/6VjLFmR.png"group-title="Entertainment",TBN Africa
 https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8
 
+#EXTINF:-1 tvg-name=""tvg-id="GSN"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png"group-title="Entertainment",Game Show Network
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-name="UNIVERSAL WESTERNS"tvg-id="UniWest"tvg-logo="https://images.squarespace-cdn.com/content/v1/5b101d24372b965c50a306dd/1585138946014-7QSFLZVBSYCHK0DZY673/ID_02_MOVING_LIGHT_20Sec_25fps_00499.png"group-title="Entertainment",Universal Westerns
 https://d4whmvwm0rdvi.cloudfront.net/10007/99951255/hls/master.m3u8?ads.xumo_channelId=99951255
 
-#EXTINF:-1 tvg-name=""tvg-id="GSN"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14909_dark_360w_270h.png"group-title="Entertainment",Game Show Network
-https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live2/gsn_720p/playlist.m3u8
+#EXTINF:-1 tvg-name=""tvg-id="ScreamBoxTV"tvg-logo="https://cdn.matchpoint.tv/lpx0mrehducjeabhge19v1u7e8nut6ckkql45hh7zdbyfn0szgjtdmeakhrib3zs1ss2vmuf6rk6vo0pwsn4nym7pau1xdr4hoi879wnm9uddoq2qrs8x7q06mjv0et5j0irk4a2svnp5f0irr71jg/1676494852175_1676486185540_ScreamboxTV_Logo_White.png"group-title="Entertainment",ScreamBox TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgus-cineverse/playlist.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id="BluesTV"tvg-logo="https://i.imgur.com/GlpYAKt.png"group-title="Entertainment",Blues TV
+https://2-fss-2.streamhoster.com/pl_138/205510-3094608-1/playlist.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id="CrimeFLX"tvg-logo="https://yt3.googleusercontent.com/2Xyny8o6E01arZ-8fh0jeYnT1xxePLRJVC8-6odRcmpRAdlZo4S1NfzLO4zxXhP7jxO7bUhD=s160-c-k-c0x00ffffff-no-rj"group-title="Entertainment",CrimeFlix
+https://dgx2snzx175pa.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-CrimeFlix/391.m3u8
+
+#EXTINF:-1 tvg-name=""tvg-id="CCNT"tvg-logo=""group-title="Entertainment",Cult Classic Movie Theater
+https://app.viloud.tv/hls/channel/053140e08adc29e3eac61eb05ff12f51.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="Go2Travel"tvg-logo="https://go2travel.tv/wp-content/uploads/2022/11/go2-logo.png"group-title="Entertainment",Go2Travel
 https://go2thls.wns.live/hls/stream.m3u8
@@ -343,6 +337,9 @@ http://67.220.74.90:25461/18736836/73683618/1703
 
 #EXTINF:-1 tvg-name=""tvg-id="MSNBC.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png"group-title="Entertainment",MSNBC
 http://67.220.74.90:25461/18736836/73683618/1710
+
+#EXTINF:-1 tvg-name="NBCLX HOME"tvg-id="NBCLX.us"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/NBC_LX_Home_2023.svg"group-title="Entertainment",NBCLX HOME
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991651
 
 #EXTINF:-1 tvg-name=""tvg-id="B10Network"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56783_dark_360w_270h.png"group-title="Entertainment",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
