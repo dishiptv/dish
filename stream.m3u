@@ -227,6 +227,12 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Toonami.fr"tvg-logo="https://i.imgur.com/sya40o5.png"group-title="Entertainment",Toonami West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Nick HD+" tvg-name="NICK HD PLUS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KIDS",NICK HD PLUS
+http://starshare.live:8080/live/Mike1/Mike2/98880.m3u8
+
+#EXTINF:-1 tvg-id="Disney International HD" tvg-name="Disney International" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KIDS",DISNEY INTERNATIONAL
+http://starshare.live:8080/live/Mike1/Mike2/20925.m3u8
+
 #EXTINF:-1 tvg-name=""tvg-id="BBCAmericaEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png"group-title="Entertainment",BBC America
 https://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
@@ -234,7 +240,7 @@ https://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
 
 #EXTINF:-1 tvg-name="Hallmark Family"tvg-id="Hallmark Family.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png"group-title="Entertainment",Hallmark Family
-https://sr-live-hallmark1.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/hmd_mp_sr/index.m3u8?ads.rating=tvpg&ads.title=touched%5Fby%5Fan%5Fangel&ads.contenttype=live&ads.app_store_url=https://watch.frndlytv.com/&ads.app_bundle=https://watch.frndlytv.com/&ads.station=hallmarkfamily&ads.us_privacy=1YNY&ads.gpp=DBABzw~1YNY~BVVqAAIiCAA&ads.gpp_sid=7&ads.duration=3600000&ads.genre=Drama%2Cfantasy%2Cfamily&ads.did=a3d0b93b-8c01-3924-b42a-5df92bda14e3&hdnts=st=1730535419~exp=1730557019~acl=!*/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/hmd_mp_sr/*!/payload/yupptvott_5_3624860_007f2620-bf3c-4af2-aa3b-6731a617dadf_US_2601:602:c07c:2750:417b:5f1d:1e9b:367f_frndlytv_1_channel_3_-1/*~data=yupptvott_5_3624860_007f2620-bf3c-4af2-aa3b-6731a617dadf_US_2601:602:c07c:2750:417b:5f1d:1e9b:367f_frndlytv_1_channel_3_-1~hmac=3d4da838fbbaabf0d546a984d3d91d1593629ce34310a0f30c6b9b6fa6f74b8a&ads.ttd_uid2=A4AAAAzQ8XuEORxBtL6K7GSmT-tBB6bpLF9iJiNfkmNocDvYGte6x1p5J7ZfwCW8MypTfGu27yVl4UdZpbk6S6rPtzjL9jExWTftWLVUqXVc1gg2uRK8SM9VlHYxa--3kFQeWmpf3r1XWLtN_Lg7y6T5QQLc3nzXvnUT2wjwekd00DKPvG40y8ukRKrVfu-2xWCxBvG_EIQyg17ujxUz-sRLFw&ads.liveramp_eids=AjtFyd4jtQmKP_DEAk6E_Rg-YoH6BP9k2KIRsH-4v4dLE2BJlH200xBi2HAJzPUYmCuG_YZiK5-Ak4Dqps4J6OYPrBdouXpgEVvBWe_HrnEIZ7CfsMIGIa2C21WT7KwiTLeYDcvpoha8h45qfBffb-v2on0gw_ziWT_elnDfPLMvNVkNaVQrIjII&ads.extra_eids=1S-google.com,1ID-AkE RRhDfnZMRd mr/0sVEzwksEXp3TZ16qqlAj/JLZn,1ATYPE-571187&start=1730534100&startTime=1730534100
+http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="HallmarkMoviesMysteriesEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61522_dark_360w_270h.png"group-title="Entertainment",Hallmark Mystery
 https://sr-live-hallmark1.akamaized.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/hmm_mp_sr/index.m3u8?ads.rating=nr&ads.title=the%5Fchristmas%5Fdoctor&ads.contenttype=live&ads.app_store_url=https://watch.frndlytv.com/&ads.app_bundle=https://watch.frndlytv.com/&ads.station=hallmarkmystery&ads.us_privacy=1YNY&ads.gpp=DBABzw~1YNY~BVVqAAIiCAA&ads.gpp_sid=7&ads.duration=7200000&ads.genre=Drama%2CRomance%2Cchristmas&ads.did=a3d0b93b-8c01-3924-b42a-5df92bda14e3&hdnts=st=1730534137~exp=1730555737~acl=!*/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/hmm_mp_sr/*!/payload/yupptvott_5_3624860_007f2620-bf3c-4af2-aa3b-6731a617dadf_US_2601:602:c07c:2750:417b:5f1d:1e9b:367f_frndlytv_1_channel_2_-1/*~data=yupptvott_5_3624860_007f2620-bf3c-4af2-aa3b-6731a617dadf_US_2601:602:c07c:2750:417b:5f1d:1e9b:367f_frndlytv_1_channel_2_-1~hmac=12865111d21607d52a88c34678982fe376b8c6d85adaff6f1548826fae12c080&ads.ttd_uid2=A4AAAAzQ8XuEORxBtL6K7GSmT-tBB6bpLF9iJiNfkmNocDvYGte6x1p5J7ZfwCW8MypTfGu27yVl4UdZpbk6S6rPtzjL9jExWTftWLVUqXVc1gg2uRK8SM9VlHYxa--3kFQeWmpf3r1XWLtN_Lg7y6T5QQLc3nzXvnUT2wjwekd00DKPvG40y8ukRKrVfu-2xWCxBvG_EIQyg17ujxUz-sRLFw&ads.liveramp_eids=AjtFyd4jtQmKP_DEAk6E_Rg-YoH6BP9k2KIRsH-4v4dLE2BJlH200xBi2HAJzPUYmCuG_YZiK5-Ak4Dqps4J6OYPrBdouXpgEVvBWe_HrnEIZ7CfsMIGIa2C21WT7KwiTLeYDcvpoha8h45qfBffb-v2on0gw_ziWT_elnDfPLMvNVkNaVQrIjII&ads.extra_eids=1S-google.com,1ID-AkE RRhDfnZMRd mr/0sVEzwksEXp3TZ16qqlAj/JLZn,1ATYPE-571187&start=1730526900&startTime=1730526900
@@ -275,7 +281,7 @@ http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="BET Soul"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18718_dark_360w_270h.png"group-title="Entertainment",BET Soul
 http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id=LogoEast.us"tvg-logo=http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png"group-title="Entertainment",LogoTV
+#EXTINF:-1 tvg-name="LOGO"tvg-id=LogoEast.us"tvg-logo=http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s46762_dark_360w_270h.png"group-title="Entertainment",LogoTV
 http://fl3.moveonjoy.com/Logo/index.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="AccuWeatherNow.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s91994_dark_360w_270h.png"group-title="Entertainment",AccuWeather
@@ -416,7 +422,7 @@ http://67.220.74.90:25461/18736836/73683618/4629
 #EXTINF:-1 tvg-name=""tvg-id="OutdoorChannel.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png"group-title="Entertainment",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id=""World Fishing Network HDTV (U.S.).us"tvg-logo=http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63234_dark_360w_270h.png"group-title="Entertainment",World Fishing Network
+#EXTINF:-1 tvg-name=""tvg-id=""World Fishing Network HDTV (U.S.)"tvg-logo=http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63234_dark_360w_270h.png"group-title="Entertainment",World Fishing Network
 http://67.220.74.90:25461/18736836/73683618/2196
 
 #EXTINF:-1 tvg-name=""tvg-id="YesNetwork.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30017_dark_360w_270h.png"group-title="Entertainment",YES! Network
@@ -453,7 +459,7 @@ http://fl1.moveonjoy.com/TCM/index.m3u8
 http://67.220.74.90:25461/18736836/73683618/5050
 
 #EXTINF:-1 tvg-name=""tvg-id="TMC"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/The_Movie_Channel.svg/1920px-The_Movie_Channel.svg.png"group-title="Entertainment",TMC
-http://67.220.74.90:25461/18736836/73683618/5050
+https://streamer1.nexgen.bz:443/TCM/index.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="MGMPlus"tvg-logo="https://i.imgur.com/S2VUrO8.png"group-title="Entertainment",MGM+
 http://fl2.moveonjoy.com/EPIX/index.m3u8
@@ -575,10 +581,11 @@ http://67.220.74.90:25461/18736836/73683618/2096
 #EXTINF:-1 tvg-name=""tvg-id="HBOSignature"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="Entertainment",HBO Signature
 http://67.220.74.90:25461/18736836/73683618/5047
 
-#EXTINF:-1 tvg-name=""tvg-id="NFLST1"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 1
+#EXTINF:-1 tvg-name="WNYW"tvg-id="WNYW"tvg-NFL Sunday Ticket New York logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 1
 http://fl3.moveonjoy.com/NFL_1/index.m3u8
 
-#EXTINF:-1 tvg-name=""tvg-id="NFLST2"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 2
+#EXTINF:-1 tvg-name="WTTG"tvg-id="WTTG HDTV - WTTGH.us"tvg-NFL Sunday Ticket DC
+logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 2
 http://saypopular.com:25461/live/18736836/73683618/272578.ts
 
 #EXTINF:-1 tvg-name=""tvg-id="NFLST3"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 3
