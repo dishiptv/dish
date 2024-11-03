@@ -227,12 +227,6 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="Toonami.fr"tvg-logo="https://i.imgur.com/sya40o5.png"group-title="Entertainment",Toonami West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Nick HD+" tvg-name="NICK HD PLUS" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KIDS",NICK HD PLUS
-http://starshare.live:8080/live/Mike1/Mike2/98880.m3u8
-
-#EXTINF:-1 tvg-id="Disney International HD" tvg-name="Disney International" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="KIDS",DISNEY INTERNATIONAL
-http://starshare.live:8080/live/Mike1/Mike2/20925.m3u8
-
 #EXTINF:-1 tvg-name=""tvg-id="BBCAmericaEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png"group-title="Entertainment",BBC America
 https://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 
