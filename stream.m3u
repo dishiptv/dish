@@ -141,19 +141,19 @@ http://67.220.74.90:25461/18736836/73683618/5479
 http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name=""tvg-id="CartoonNetworkEast.us"tvg-logo=""group-title="Entertainment",Cartoon Network
 http://67.220.74.90:25461/18736836/73683618/5486
-#EXTINF:-1 tvg-name=""tvg-id="Toonami.fr"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPedFWkyHMPxpXPYZ9rYNUDVUu9xKCNSZrVv3VSF6C2q4H0XtzCaQ2l5YsfljMO6XFxRCWkfRYc9bQct4kY-f41U528Idl4CxxmodPVrMRU6_-PZL2cDIkVmmhYklIyqJgcdDNklebKOf-/s640/toonami+tvlaint.png"group-title="Entertainment",Toonami East
+#EXTINF:-1 tvg-name="TOONAMI East"tvg-id="ToonamiAftermathEast.us"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPedFWkyHMPxpXPYZ9rYNUDVUu9xKCNSZrVv3VSF6C2q4H0XtzCaQ2l5YsfljMO6XFxRCWkfRYc9bQct4kY-f41U528Idl4CxxmodPVrMRU6_-PZL2cDIkVmmhYklIyqJgcdDNklebKOf-/s640/toonami+tvlaint.png"group-title="Entertainment",Toonami East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="Toonami.fr"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPedFWkyHMPxpXPYZ9rYNUDVUu9xKCNSZrVv3VSF6C2q4H0XtzCaQ2l5YsfljMO6XFxRCWkfRYc9bQct4kY-f41U528Idl4CxxmodPVrMRU6_-PZL2cDIkVmmhYklIyqJgcdDNklebKOf-/s640/toonami+tvlaint.png"group-title="Entertainment",Toonami West
+#EXTINF:-1 tvg-name="TOONAMI West"tvg-id="ToonamiAftermathWest.us"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPedFWkyHMPxpXPYZ9rYNUDVUu9xKCNSZrVv3VSF6C2q4H0XtzCaQ2l5YsfljMO6XFxRCWkfRYc9bQct4kY-f41U528Idl4CxxmodPVrMRU6_-PZL2cDIkVmmhYklIyqJgcdDNklebKOf-/s640/toonami+tvlaint.png"group-title="Entertainment",Toonami West
 http://api.toonamiaftermath.com:3000/pst/playlist.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="BBCAmericaEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png"group-title="Entertainment",BBC America
+#EXTINF:-1 tvg-name="BBC America"tvg-id="BBCAmericaEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png"group-title="Entertainment",BBC America
 https://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-name=""tvg-id="HallmarkChannelEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png"group-title="Entertainment",Hallmark Channel
+#EXTINF:-1 tvg-name="HALLMARK"tvg-id="HallmarkChannelEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11221_dark_360w_270h.png"group-title="Entertainment",Hallmark Channel
 http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-name="Hallmark Family"tvg-id="Hallmark Family.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png"group-title="Entertainment",Hallmark Family
+#EXTINF:-1 tvg-name="HALLMARK FAMILY"tvg-id="Hallmark Family.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s105723_dark_360w_270h.png"group-title="Entertainment",Hallmark Family
 http://fl2.moveonjoy.com/HALLMARK_DRAMA/index.m3u8
 #EXTINF:-1 tvg-name="HALLMARK MYSTERY"tvg-id="Hallmark Mystery.us"tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/Hallmark-Movies-Mysteries.png"group-title="Entertainment",HALLMARK MYSTERY
 http://globalstreamz.xyz:3050/dalong1972@gmail.com/uNHnznZB6z/509118
-#EXTINF:-1 tvg-name=""tvg-id="HallmarkMM"tvg-logo="https://pbs.twimg.com/media/GFrr3ypbEAAshQo.jpg:large"group-title="Entertainment",Hallmark Movies & More
+#EXTINF:-1 tvg-name="HALLMARK MOVIES & MORE"tvg-id="HallmarkMM"tvg-logo="https://pbs.twimg.com/media/GFrr3ypbEAAshQo.jpg:large"group-title="Entertainment",Hallmark Movies & More
 https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
 #EXTINF:-1 tvg-name=""tvg-id="CMTEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png"group-title="Entertainment",CMT
 http://fl3.moveonjoy.com/CMT/index.m3u8
