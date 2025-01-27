@@ -62,8 +62,11 @@ http://fl3.moveonjoy.com/Antenna/index.m3u8
 #EXTINF:-1 tvg-name="METV"tvg-id="MeTV.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s70436_dark_360w_270h.png"group-title="Entertainment",MeTV
 http://fl2.moveonjoy.com/ME_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="KRIV"tvg-id="KRIVDT1.us"tvg-logo=https://www.fox.com/static/images/FallBack-FOX.jpg"group-title="Entertainment",FOX
-http://saypopular.com:25461/live/18736836/73683618/272578.ts
+#EXTINF:-1 tvg-name="WTTG"tvg-id="WTTG-DC"tvg-logo=https://www.fox.com/static/images/FallBack-FOX.jpg"group-title="Entertainment",FOX
+http://fl3.moveonjoy.com/NFL_1/index.m3u8
+
+#EXTINF:-1 tvg-name="WTXF"tvg-id="WTXF Philly"tvg-logo="https://cdn6.aptoide.com/imgs/b/a/e/bae34baa4b31e5323f72608b921bfa4b_fgraphic.png"group-title="Entertainment",WTXF (FOX)
+http://fl4.moveonjoy.com/NFL_1/index.m3u8
 
 #EXTINF:-1 tvg-name="LIFETIME"tvg-id="LifetimeEast.us"tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10918_dark_360w_270h.png" group-title="Entertainment",Lifetime
 https://fl2.moveonjoy.com/LIFETIME/index.m3u8
@@ -526,15 +529,6 @@ http://67.220.74.90:25461/18736836/73683618/2096
 
 #EXTINF:-1 tvg-name=""tvg-id="HBOSignature"tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/HBO-Logo.png"group-title="Entertainment",HBO Signature
 http://67.220.74.90:25461/18736836/73683618/5047
-
-#EXTINF:-1 tvg-name="WNYW"tvg-id="WNYW"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 1
-http://fl3.moveonjoy.com/NFL_1/index.m3u8
-
-#EXTINF:-1 tvg-name="WTTG"tvg-id="WTTG HDTV - WTTGH.us"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 2
-http://fl4.moveonjoy.com/NFL_1/index.m3u8
-
-#EXTINF:-1 tvg-name=""tvg-id="NFLST3"tvg-logo="https://chumley.barstoolsports.com/union/getty/2024/08/20/GettyImages-1091147176.3feb0076.webp?crop=0.50%2C0.45%2Cx0.24%2Cy0.18%2Csafe&fit=bounds&format=pjpg&auto=webp&quality=85%2C75&width=828"group-title="Entertainment",Sunday Ticket 3
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-name=""tvg-id="StingrayHits.ca"tvg-logo="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png"group-title="Entertainment",Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
